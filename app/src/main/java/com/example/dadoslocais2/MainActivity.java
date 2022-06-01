@@ -11,7 +11,7 @@ import android.widget.Button;
 
 import com.google.android.material.textfield.TextInputEditText;
 
-public class MainActivity extends AppCompatActivity {aasdasda
+public class MainActivity extends AppCompatActivity {
     SharedPreferences sharedPreferences;
     TextInputEditText txtLogin;
     TextInputEditText txtSenha;
