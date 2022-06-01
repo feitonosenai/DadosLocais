@@ -1,6 +1,6 @@
 package com.example.dadoslocais2;
 
-iimport androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,7 +11,7 @@ import android.widget.Button;
 
 import com.google.android.material.textfield.TextInputEditText;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {aasdasda
     SharedPreferences sharedPreferences;
     TextInputEditText txtLogin;
     TextInputEditText txtSenha;
